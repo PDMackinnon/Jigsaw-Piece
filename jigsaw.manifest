@@ -1,0 +1,13 @@
+CACHE MANIFEST
+
+# Cache manifest version 0.0.3
+
+css/jigsaw.css
+images/PIECE.png
+images/RING.png
+js/jig2.js
+js/libs/jquery-2.0.0.min.js
+js/libs/modernizr-latest.js
+jigIcon196.png
+apple-touch-icon.png
+index.html

@@ -1,0 +1,1 @@
+Simple HTML5 toy project for issues around touch and mobile Apps. This Jigsaw piece rotates by touch gesture. It has implemented recommended practices for device-width and icons etc that enable the web app to look and feel like a native app when added to the home screen on iOS and on Android Chrome etc.
